@@ -1,0 +1,151 @@
+/* === POPUPS DERECHA === */
+
+#popup1,
+#popup2,
+#popup3,
+#popup4,
+#popup5,
+#popup6 {
+  width: 540px;
+  height: 220px;
+  background-size: contain;
+  background-repeat: repeat-x;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin-bottom: 20px;
+}
+
+#popup1 {
+  background: url(../images/Navidad-1.jpg);
+}
+
+#popup2 {
+  background: url(../images/Navidad-2.jpg);
+}
+
+#popup3 {
+  background: url(../images/Navidad-3.jpg);
+}
+
+#popup4 {
+  background: url(../images/Navidad-4.jpg);
+}
+
+#popup5 {
+  background: url(../images/Navidad-5.jpg);
+}
+
+#popup6 {
+  background: url(../images/Navidad-6.jpg);
+}
+
+/* === POPUPS IZQUIERDA === */
+
+#popup1-iz,
+#popup2-iz,
+#popup3-iz,
+#popup4-iz,
+#popup5-iz,
+#popup6-iz {
+  width: 540px;
+  height: 220px;
+  background-size: contain;
+  background-repeat: repeat-x;
+  position: fixed;
+  left: 0;
+  top: 0;
+  margin-top: 20px;
+}
+
+#popup1-iz {
+  background: url(../images/Navidad-1.jpg);
+}
+
+#popup2-iz {
+  background: url(../images/Navidad-2.jpg);
+}
+
+#popup3-iz {
+  background: url(../images/Navidad-3.jpg);
+}
+
+#popup4-iz {
+  background: url(../images/Navidad-4.jpg);
+}
+
+#popup5-iz {
+  background: url(../images/Navidad-5.jpg);
+}
+
+#popup6-iz {
+  background: url(../images/Navidad-6.jpg);
+}
+
+/* === POPUPS CENTRADOS === */
+
+#popup1-cen,
+#popup2-cen,
+#popup3-cen,
+#popup4-cen,
+#popup5-cen,
+#popup6-cen {
+  width: 540px;
+  height: 220px;
+  background-size: contain;
+  background-repeat: repeat-x;
+  position: fixed;
+  z-index: 999;
+  bottom: 50%;
+  margin-bottom: -110px;
+  margin-left: -270px;
+  left: 50%;
+}
+
+#popup1-cen {
+  background: url(../images/Navidad-1.jpg);
+}
+
+#popup2-cen {
+  background: url(../images/Navidad-2.jpg);
+}
+
+#popup3-cen {
+  background: url(../images/Navidad-3.jpg);
+}
+
+#popup4-cen {
+  background: url(../images/Navidad-4.jpg);
+}
+
+#popup5-cen {
+  background: url(../images/Navidad-5.jpg);
+}
+
+#popup6-cen {
+  background: url(../images/Navidad-6.jpg);
+}
+
+#close {
+  color: #fff;
+
+  float: right;
+
+  display: inline-block;
+
+  padding: 4px 6px;
+
+  background: #9d0000;
+}
+
+#close:hover {
+  float: right;
+
+  display: inline-block;
+
+  padding: 4px 6px;
+
+  background: #750000;
+
+  color: #fff;
+}

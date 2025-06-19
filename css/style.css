@@ -1,431 +1,151 @@
+/* === POPUPS DERECHA === */
 
-
-#popup1{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-1.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-	position:fixed;
-
-    bottom:0;
-
-    right:0;
-
+#popup1,
+#popup2,
+#popup3,
+#popup4,
+#popup5,
+#popup6 {
+  width: 540px;
+  height: 220px;
+  background-size: contain;
+  background-repeat: repeat-x;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  margin-bottom: 20px;
 }
 
-#popup2{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-2.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-    bottom:0;
-
-    right:0;
-
+#popup1 {
+  background: url(../images/Navidad-1.jpg);
 }
 
-#popup3{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-3.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-    bottom:0;
-
-    right:0;
-
+#popup2 {
+  background: url(../images/Navidad-2.jpg);
 }
 
-#popup4{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-4.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-    bottom:0;
-
-    right:0;
-
+#popup3 {
+  background: url(../images/Navidad-3.jpg);
 }
 
-#popup5{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-5.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-    bottom:0;
-
-    right:0;
-
+#popup4 {
+  background: url(../images/Navidad-4.jpg);
 }
 
-#popup6{
-
-	width: 540px;
-
-	height: 220px;
-	
-	background: url(../images/Navidad-6.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-    bottom:0;
-
-    right:0;
-
+#popup5 {
+  background: url(../images/Navidad-5.jpg);
 }
 
-
-
-#popup1-iz{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-1.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-	position:fixed;
-
-    bottom:0;
-
-    left:0;
-
+#popup6 {
+  background: url(../images/Navidad-6.jpg);
 }
 
-#popup2-iz{
+/* === POPUPS IZQUIERDA === */
 
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-2.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-    bottom:0;
-
-    left:0;
-
+#popup1-iz,
+#popup2-iz,
+#popup3-iz,
+#popup4-iz,
+#popup5-iz,
+#popup6-iz {
+  width: 540px;
+  height: 220px;
+  background-size: contain;
+  background-repeat: repeat-x;
+  position: fixed;
+  left: 0;
+  top: 0;
+  margin-top: 20px;
 }
 
-#popup3-iz{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-3.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-    bottom:0;
-
-    left:0;
-
+#popup1-iz {
+  background: url(../images/Navidad-1.jpg);
 }
 
-#popup4-iz{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-4.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-    bottom:0;
-
-    left:0;
-
+#popup2-iz {
+  background: url(../images/Navidad-2.jpg);
 }
 
-#popup5-iz{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-5.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-    bottom:0;
-
-    left:0;
-
+#popup3-iz {
+  background: url(../images/Navidad-3.jpg);
 }
 
-#popup6-iz{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-6.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-    bottom:0;
-
-    left:0;
-
+#popup4-iz {
+  background: url(../images/Navidad-4.jpg);
 }
 
-
-
-#popup1-cen{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-1.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-	position:fixed;
-
-	z-index:999;
-
-    bottom:50%;
-
-	margin-bottom: -110px;
-
-	margin-left: -270px;
-
-    left:50%;
-
+#popup5-iz {
+  background: url(../images/Navidad-5.jpg);
 }
 
-#popup2-cen{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-2.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-	z-index:999;
-
-    bottom:50%;
-
-	margin-bottom: -110px;
-
-	margin-left: -270px;
-
-    left:50%;
-
+#popup6-iz {
+  background: url(../images/Navidad-6.jpg);
 }
 
-#popup3-cen{
+/* === POPUPS CENTRADOS === */
 
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-3.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-	z-index:999;
-
-    bottom:50%;
-
-	margin-bottom: -110px;
-
-	margin-left: -270px;
-
-    left:50%;
-
+#popup1-cen,
+#popup2-cen,
+#popup3-cen,
+#popup4-cen,
+#popup5-cen,
+#popup6-cen {
+  width: 540px;
+  height: 220px;
+  background-size: contain;
+  background-repeat: repeat-x;
+  position: fixed;
+  z-index: 999;
+  bottom: 50%;
+  margin-bottom: -110px;
+  margin-left: -270px;
+  left: 50%;
 }
 
-#popup4-cen{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-4.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-	z-index:999;
-
-    bottom:50%;
-
-	margin-bottom: -110px;
-
-	margin-left: -270px;
-
-    left:50%;
-
+#popup1-cen {
+  background: url(../images/Navidad-1.jpg);
 }
 
-#popup5-cen{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-5.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-	z-index:999;
-
-    bottom:50%;
-
-	margin-bottom: -110px;
-
-	margin-left: -270px;
-
-    left:50%;
-
+#popup2-cen {
+  background: url(../images/Navidad-2.jpg);
 }
 
-#popup6-cen{
-
-	width: 540px;
-
-	height: 220px;
-
-	background: url(../images/Navidad-6.jpg);
-
-	background-size:contain;
-
-	background-repeat:repeat-x;
-
-    position:fixed;
-
-	z-index:999;
-
-    bottom:50%;
-
-	margin-bottom: -110px;
-
-	margin-left: -270px;
-
-    left:50%;
-
+#popup3-cen {
+  background: url(../images/Navidad-3.jpg);
 }
 
+#popup4-cen {
+  background: url(../images/Navidad-4.jpg);
+}
 
+#popup5-cen {
+  background: url(../images/Navidad-5.jpg);
+}
+
+#popup6-cen {
+  background: url(../images/Navidad-6.jpg);
+}
 
 #close {
+  color: #fff;
 
-	color:#fff;
-	
-    float:right;
+  float: right;
 
-    display:inline-block;
+  display: inline-block;
 
-    padding:4px 6px;
+  padding: 4px 6px;
 
-    background: #9D0000;
-
+  background: #9d0000;
 }
 
 #close:hover {
+  float: right;
 
-    float:right;
+  display: inline-block;
 
-    display:inline-block;
+  padding: 4px 6px;
 
-    padding:4px 6px;
+  background: #750000;
 
-    background:#750000;
-
-    color:#fff;
-
+  color: #fff;
 }
