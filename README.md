@@ -15,8 +15,6 @@ Este plugin te permite mostrar un mensaje navideño y un efecto de nieve en tu s
 
 Desarrollado por IndianWebs, proveedor con más de 2500 clientes satisfechos desde 1996, expertos en creación de páginas web, tiendas virtuales, mantenimiento y programación a medida.
 
----
-
 ## Instalación
 
 1. Sube la carpeta `plugin-navidad-indianwebs` al directorio `/wp-content/plugins/`.
@@ -25,13 +23,9 @@ Desarrollado por IndianWebs, proveedor con más de 2500 clientes satisfechos des
 4. Configura tus preferencias: activar nieve, elegir postal, posición, etc.
 5. Haz clic en **Guardar**.
 
----
-
 ## Screenshots
 
 1. Panel de configuración con efectos y opciones navideñas.
-
----
 
 ## Changelog
 
@@ -58,10 +52,3 @@ Desarrollado por IndianWebs, proveedor con más de 2500 clientes satisfechos des
 
 - Primera versión funcional del plugin.
 
----
-
-## Upgrade Notice
-
-### 1.4.1
-
-Recomendado actualizar para mejorar compatibilidad y experiencia de usuario.
