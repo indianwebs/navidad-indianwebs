@@ -1,8 +1,8 @@
-﻿=== Plugin Navidad IndianWebs ===
+﻿=== Carta Navidad IndianWebs ===
 Contributors: CristoH, Phuguet
-Tags: navidad, nieve, christmas, snowfall, mensaje navideño, indianwebs, plugin
+Tags: navidad, nieve, christmas, snowfall, mensaje navideño, indianwebs
 Requires at least: 4.0
-Tested up to: 6.8.1
+Tested up to: 6.8
 Stable tag: 1.4.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -11,7 +11,7 @@ Añade un mensaje navideño y un efecto de nieve a tu web WordPress con solo uno
 
 == Description ==
 
-**Plugin Navidad IndianWebs v1.4.1**
+**Carta Navidad IndianWebs v1.4.1**
 
 Este plugin te permite mostrar un mensaje navideño y un efecto de nieve en tu sitio web de forma rápida y sencilla. Configura fácilmente cuántos copos quieres, su tamaño, velocidad y elige entre varias postales prediseñadas o sube la tuya propia.
 

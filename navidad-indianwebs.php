@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Plugin Navidad IndianWebs
+Plugin Name: Carta Navidad IndianWebs
 Plugin URI: https://indianwebs.com/plugins
 Description: Pon un mensaje navideño y un efecto de nieve en tu web.
 Version: 1.4.1
@@ -9,7 +9,6 @@ Author URI: https://indianwebs.com/
 License: GPLv2 or later
 */
 
-/* Detecta el tipo de versión de WordPress */
 register_activation_hook(__FILE__, 'efecto_nieve_install');
 
 function efecto_nieve_install()
